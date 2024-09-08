@@ -7,7 +7,7 @@ Throughout my studies, I focus on real-life scenarios, cases, projects, and othe
 
 During my free time, I like to stay updated on finance news and often analyze open data sources to discover new information and gain insights to answer my personal questions. In this portfolio, I will include my case studies and projects to demonstrate my experience and skills in Data/Finance Analytics.
 
-My CV/Resume - [pdf]()
+My CV/Resume - [pdf]([Resume - Lyassiman Mukashev.pdf](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/Resume%20-%20Lyassiman%20Mukashev.pdf))
 
 My Linkedin - www.linkedin.com/in/lyassiman-mukashev-5b6907266
 
