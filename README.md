@@ -41,4 +41,6 @@ In this section, I will describe my projects and briefly describe the case, goal
 
 - For more detailed information and also with structured 6 steps of data analysis - ([Case-Study-Detailed-Project.docx](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/CASE%20STUDY%201.docx))
 
+- ([Tableau](https://public.tableau.com/app/profile/lyassiman.m/viz/Book3_17245137324840/Dashboard1))
+- ([Presentation.pdf](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/Case%20Study%20(Project).pdf))
 
