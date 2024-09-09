@@ -14,15 +14,17 @@ My Linkedin - www.linkedin.com/in/lyassiman-mukashev-5b6907266
 My email - lyassiman05@gmail.com
 
 **Accomplishments:**
-Google data analyst
+Google Data Analytics Professional Certificate (2024)
+[https://www.credly.com/badges/2865722e-5877-414d-bac3-fee7113c5275/linked_in_profile]
 
-financial analyst (in progress)
+Financial Analysis - Skills for Success Specialization (2024)
+(In Progress)
 
 ## Portfolio Projects
 In this section, I will describe my projects and briefly describe the case, goals, skills that I used to solve it, tools, and results.
 
 ### CASE STUDY 1. Analyze the difference between Cyclistic's Annual Members and Casual Riders
-- ([CaseStudy1])()
+- ([CaseStudy1.pdf](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/CaseStudy1.pdf))
 
 **CODE:**
 
@@ -35,5 +37,7 @@ In this section, I will describe my projects and briefly describe the case, goal
 **Tools:** SQL, Tableau, Google Sheets, Google Slides
 
 **Results/Conclusion:** Using SQL, the analysis indicates a significant disparity between both types of riders. Through insights and trends, the marketing team can implement strategies to convert riders into annual members.
+
+- For more detailed information and also with structured 6 steps of data analysis - ([Case-Study-Detailed-Project.docx](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/CASE%20STUDY%201.docx))
 
 
