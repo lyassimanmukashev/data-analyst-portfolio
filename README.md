@@ -19,10 +19,17 @@ In this section, I will describe my projects and briefly describe the case, goal
 
 ### CASE STUDY 1. Analyze the difference between Cyclistic's Annual Members and Casual Riders
 
--
+**CODE:**
 
--
+**Goal:**
 
+**Description:**
+
+**Skills:**
+
+**Tools:**
+
+**Results/Conclusion:**
 -
 
 IN PROGRESS
