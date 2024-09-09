@@ -13,23 +13,27 @@ My Linkedin - www.linkedin.com/in/lyassiman-mukashev-5b6907266
 
 My email - lyassiman05@gmail.com
 
+**Accomplishments:**
+Google data analyst
+
+financial analyst (in progress)
 
 ## Portfolio Projects
 In this section, I will describe my projects and briefly describe the case, goals, skills that I used to solve it, tools, and results.
 
 ### CASE STUDY 1. Analyze the difference between Cyclistic's Annual Members and Casual Riders
+- ([CaseStudy1])()
 
 **CODE:**
 
-**Goal:**
+**Goal:** Identify the differences between Casual Riders and Annual Members
 
-**Description:**
+**Description:** The project is focused on analyzing riders' data over several months. The data is obtained from Divvy Bikes datasets, which are public data licensed by Lyft Inc. You can find the data at [https://divvy-tripdata.s3.amazonaws.com/index.html]. For this project, I utilized data from November 2023 through April 2024. The dataset includes rider IDs, start times, end times, types of membership (Casual Riders, Annual Members), and other relevant information. The project involved loading the data, cleaning and preprocessing it, conducting exploratory data analysis, and analyzing the differences between Annual Members and Casual Riders. The aim was to uncover trends and insights that could aid the marketing team in making better decisions for the company.
 
-**Skills:**
+**Skills:** Data Analysis, Data Cleaning, Data Visualization
 
-**Tools:**
+**Tools:** SQL, Tableau, Google Sheets, Google Slides
 
-**Results/Conclusion:**
--
+**Results/Conclusion:** Using SQL, the analysis indicates a significant disparity between both types of riders. Through insights and trends, the marketing team can implement strategies to convert riders into annual members.
 
-IN PROGRESS
+
