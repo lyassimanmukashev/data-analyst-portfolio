@@ -20,13 +20,14 @@ Google Data Analytics Professional Certificate (2024)
 Financial Analysis - Skills for Success Specialization (2024)
 (In Progress)
 
+
 ## Portfolio Projects
 In this section, I will describe my projects and briefly describe the case, goals, skills that I used to solve it, tools, and results.
 
-### CASE STUDY 1. Analyze the difference between Cyclistic's Annual Members and Casual Riders
+### Case Study 1. Analyze the difference between Cyclistic's Annual Members and Casual Riders
 - ([CaseStudy1.pdf](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/CaseStudy1.pdf))
 
-**CODE:**
+**Code:** ([SQL](https://github.com/lyassimanmukashev/data-analyst-portfolio/blob/main/CasualAnnual.sql))
 
 **Goal:** Identify the differences between Casual Riders and Annual Members
 
